@@ -134,7 +134,7 @@ Currently runs manually unless automated with cron.
 Does not yet include a restore script.
 Cannot back up remote systems without SSH/rsync integration.
 
-##Conclusion **
+## Conclusion 
 
 The Automated Backup System is a complete Bash scripting project that demonstrates how automation can make system management reliable and efficient.
 It solves one of the most common real-world problems — data safety and storage optimization — using simple yet powerful Linux tools like tar, sha256sum, find, and date.
