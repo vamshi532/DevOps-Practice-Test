@@ -149,7 +149,7 @@ Practical understanding of cron scheduling and system maintenance
 
 Ability to build production-style tools with logging, configuration, and error handling
 
- Key Takeaways
+**Key Takeaways**
 
 Automation saves time and prevents human error
 
@@ -159,7 +159,7 @@ Smart rotation policies improve storage efficiency
 
 Configuration files make scripts flexible and reusable
 
- Future Improvements
+**Future Improvements**
 
 Add a restore.sh script for one-click recovery
 
